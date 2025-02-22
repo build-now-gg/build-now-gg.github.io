@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
-  background-color: #131b29;
+  background-color: #4faad2;
   letter-spacing: 0.75px;
 }
 
@@ -32,7 +32,7 @@ h2 {
 
 * {
   scrollbar-width: thin;
-  scrollbar-color: #ffffff #2e3044;
+    scrollbar-color: #ffffff #1479a4;
 }
 
  p {
@@ -47,7 +47,7 @@ a {
 }
 
 header {
-  background-color: #1d3752;
+  background-color: #127dab;
 }
 
 .search-container {
@@ -191,7 +191,6 @@ header {
 }
 
 .nav-categories {
-  box-shadow: 0 4px 12px 0 rgba(43, 43, 43, 0.1);
   padding: 5px 0;
   white-space: nowrap;
   width: 100%;
@@ -444,8 +443,8 @@ article a:hover {
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #1d3752;
-  color: #C0C0C0;
+  background-color: #127dab;
+  color: #ffffff;
   font-size: 17px;
 }
 
